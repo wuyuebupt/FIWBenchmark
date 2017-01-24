@@ -1,4 +1,4 @@
-function crops_data = prepare_image1(im,  mean)
+function crops_data = prepare_image(im,  mean)
 % ------------------------------------------------------------------------
 % caffe/matlab/+caffe/imagenet/ilsvrc_2012_mean.mat contains mean_data that
 % is already in W x H x C with BGR channels
